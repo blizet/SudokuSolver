@@ -1,7 +1,7 @@
 # SudokuSolver
 A simple C++ program to generate solution of provided sudoku
 Input sample
-5 3 0 0 7 0 0 0 0
+5 3 0 0 7 0 0 0 0 
 6 0 0 1 9 5 0 0 0
 0 9 8 0 0 0 0 6 0
 8 0 0 0 6 0 0 0 3
